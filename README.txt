@@ -8,4 +8,4 @@ so here's a mini tutorial for windows:
 -> the entry should show up in the dependancies section, double click it.
 -> click the + icon, select opencv/build/java/x64 (or x86 depending on your platform)
 -> click and apply and import the libraries in your code through org.opencv.*
--> enjoy developing shitty code in a shitty programming language (c# is better screw you java fans).
+-> profit??
